@@ -15,9 +15,9 @@ This project was implemented using Python, along with the following libraries:
 
 ## Insights
 Several insights were uncovered during the exploratory data analysis process:
-* More male passengers than female passengers survived – despite the higher number of male passengers on board.
-* Gender-based survival patterns – Only 73 out of 288 male passengers survived, while 196 out of 211 female passengers survived. This observation supports the historic "women and children first" evacuation policy.
-* Striking survival rate differences – The survival rate for male passengers was only 25.35%, while female passengers had a survival rate of 92.89%. This suggests that gender had a strong correlation with the likelihood of survival.
+* There were more male passengers than female passengers on board the Titanic.
+* A majority of male passengers did not survive (only 73 out of 288 survived), while most female passengers survived (196 out of 211). This supports the idea of the "women and children first" policy during the evacuation.
+* The survival rate for male passengers was only 25.35%, while female passengers had a survival rate of 92.89%. This significant difference shows a strong correlation between gender and survival chances.
 
 ## Advices
 This project can serve as a strong starting point for further exploration. Suggested next steps include:
